@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/seat-sensor/seat-sensor/seat-sensor.csproj": {}
+    "/Users/williamklehm/Git/seat-sensor/seat-sensor/seat-sensor.csproj": {}
   },
   "projects": {
-    "/workspaces/seat-sensor/seat-sensor/seat-sensor.csproj": {
+    "/Users/williamklehm/Git/seat-sensor/seat-sensor/seat-sensor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/seat-sensor/seat-sensor/seat-sensor.csproj",
+        "projectUniqueName": "/Users/williamklehm/Git/seat-sensor/seat-sensor/seat-sensor.csproj",
         "projectName": "seat-sensor",
-        "projectPath": "/workspaces/seat-sensor/seat-sensor/seat-sensor.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/seat-sensor/seat-sensor/obj/",
+        "projectPath": "/Users/williamklehm/Git/seat-sensor/seat-sensor/seat-sensor.csproj",
+        "packagesPath": "/Users/williamklehm/.nuget/packages/",
+        "outputPath": "/Users/williamklehm/Git/seat-sensor/seat-sensor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/williamklehm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

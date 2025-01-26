@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("seat-sensor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce5d5f6d4b3a3710d2546b3f597c5793a20367d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efc56acd9958920ce901a063c2f99b812e64f90b")]
 [assembly: System.Reflection.AssemblyProductAttribute("seat-sensor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("seat-sensor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
